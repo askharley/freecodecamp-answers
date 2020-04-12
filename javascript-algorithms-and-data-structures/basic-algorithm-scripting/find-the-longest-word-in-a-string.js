@@ -3,9 +3,7 @@ function findLongestWordLength(str) {
   const arr = buildArray(str);
   
   arr.map(element => {
-    if (element.length > length) {
-      length = element.length;
-    }
+    if (element.length > length) length = element.length;
   });
 
   return length;
