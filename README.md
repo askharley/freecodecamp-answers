@@ -6,6 +6,8 @@
 
 #### [Debugging](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/debugging)
 
+#### [Basic Data Structures](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/basic-data-structures)
+
 #### [Basic Algorithm Scripting](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 
 #### [Object Orientated Programming](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/object-orientated-programming)
