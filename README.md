@@ -4,6 +4,10 @@
 
 ## JavaScript Algorithms & Data Structures
 
-#### Debugging
+#### [Debugging](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/debugging)
 
-#### Object Orientated Programming
+#### [Object Orientated Programming](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/object-orientated-programming)
+
+#### [Basic Algorithm Scripting](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+#### [Intermediate Algorithm Scripting](https://github.com/askharley/freecodecamp-answers/tree/master/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
